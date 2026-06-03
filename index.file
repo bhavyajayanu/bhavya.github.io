@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Bhavya Portfolio</title>
+</head>
+<body>
+    <h1>Jayanu Bhavya Dattasri</h1>
+    <p>B.Tech Student</p>
+
+    <h2>Skills</h2>
+    <ul>
+        <li>C</li>
+        <li>C++</li>
+        <li>Python</li>
+        <li>Java</li>
+    </ul>
+
+    <h2>Projects</h2>
+    <p>Loan Management System </p>
+    <p>Student Performance Dashboard</p>
+
+    <h2>Contact</h2>
+    <p>LinkedIn: https://www.linkedin.com/in/jayanu-bhavya-dattasri-2b86b8398/</p>
+</body>
+</html>
